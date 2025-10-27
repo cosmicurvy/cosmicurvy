@@ -9,7 +9,7 @@
 
 
 
-💬 I’m open to collaborating on Data Science or AI-based projects  
+💬 I’m open to collaborating on Data Science or Machine Learning projects  
 📫 Reach me at: sahup9002@gmail.com
 
 ---
